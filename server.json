@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Veggie",
+      "name": "Veggiea",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
       "available": true,
@@ -31,6 +31,14 @@
       "description": "asd",
       "available": true,
       "id": 4
+    },
+    {
+      "image": "123",
+      "name": "123",
+      "price": "1234",
+      "description": "123",
+      "available": true,
+      "id": 5
     }
   ]
 }
